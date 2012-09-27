@@ -83,6 +83,3 @@ it’s used in daily life. Take screenshots and make videos!
 This section should help a person get started with their very first bug fix and thinking through the problem.
 
 * If you have further questions, contact: 
-
-          </pre>
-        </section>
