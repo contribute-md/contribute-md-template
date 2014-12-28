@@ -37,13 +37,17 @@ This sections explains how bug triaging is done for your project. Help beginners
 * You can help report bugs by filing them here: 
 * You can look through the existing bugs here: 
 
-* Look at existing bugs and help us understand if
-** The bug is reproducible? Is it reproducible in other environments (browsers)? What are the steps to reproduce? 
+* You can help us diagnose and fix existing bugs by asking and providing answers for the following:
 
-* You can close fixed bugs by testing old tickets to see if they are
-happening
-* You can update our change log here
-* You can remove duplicate bug reports
+  * Is the bug reproducible as explained?   
+  * Is it reproducible in other environments (for instance, on different browsers or devices)?   
+  * Are the steps to reproduce the bug clear? If not, can you describe how you might reproduce it?  
+  * What tags should the bug have?  
+  * Is this bug something you have run into? Would you appreciate it being looked into faster?  
+
+* You can close fixed bugs by testing old tickets to see if they are still happening.
+* You can update our changelog here:
+* You can remove duplicate bug reports by:
 
 
 # Beta testing
