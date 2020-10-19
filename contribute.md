@@ -7,6 +7,7 @@ This is the contribute.md of our project. Great to have you here. Here are a few
 ## Team members
 
 This section introduces the core team members. 
+you can write the name of your project team members. 
 
 ## Learn & listen
 
